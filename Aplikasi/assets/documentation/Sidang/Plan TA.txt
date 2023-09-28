@@ -1,0 +1,35 @@
+@@## BAB 4 ##@@
+#Analisis Prosedur Sistem Berjalan
+Bagian ini menggambarkan tentang sistem yang sedang berjalan di lingkungan Fakultas Informatika UNIBI pada bagian kegiatan monitoring dan evaluasi kegiatan belajar mengajar dapat dilakukan dengan pengisian data mandiri menggunakan google spreadsheet dari link yang disediakan oleh fakultas, lalu ketua kelas mengisi data kehadiran dosen dan materi pembelajaran. namun cara ini hanya sebuah kegiatan yang di selenggarakan di dalam sebuat spreadsheet dan prosedur yang melibatkan komunikasi 2 arah diluar administratif, maka dari itu untuk melibatkan pihak seperti dosen, mahasiswa, dan fakultas dapat di lakukan dengan cara mengadministratifkan kegiatan monitoring dan evaluasi kegiatan belajar mengajar yang ada di fakultas teknik informatika untuk membuat prosedur yang lebih tertata dan melakukan monitoring untuk memberikan hasil evaluasi yang maksimal di kemudian hari.
+
+#Perancangan UML
+	1. Flowchart (All Action)
+	2. Data Flow 
+	3. Entity
+
+#Desain Basis Data 
+	- DB Table [11]
+
+#Perancangan Antar Muka
+	- Mockup UI 11 Item in ../img/
+
+
+
+@@## BAB 5 ##@@
+#Implementasi Sistem
+Pada bagian ini akan di implementasikan dalam bentuk program bahasa pemograman tertentu dan juga pemakaian perangkat lunak yang dibuat pada linkukan yang sebenarnya berdasarkan hasil analisis dan rancangan. Aplikasi Monitoring dan Evaluasi Kegiatan Belajar Mengajar ini terbagi dua bagian, yaitu backend dan frontend, keduanya menggunakan sistem berbasis website.
+
+#Implementasi ANtarmuka dan Hasil Program
+	- Hasil UI n UX
+
+#Pengujian SIstem
+	- Hardware Tester Specs
+	- Blackbox Test
+
+
+======================================
+Pemodelan perangkat lunak merupakan langkah penting dalam pembuatan perangkat lunak yang mencoba merepresentasikan secara visual berbagai elemen sistem yang akan dibuat. Pemodelan perangkat lunak membantu tim pengembangan dalam merancang struktur, hubungan, aliran data, dan interaksi antara bagian-bagian yang membentuk aplikasi melalui penggunaan diagram, simbol, dan notasi tertentu. Dengan menggunakan alat seperti UML, diagram alur, Entity-Relationship Diagram (ERD), dan lainnya, pemodelan memungkinkan pemangku kepentingan dan seluruh tim pengembangan memahami ide-ide rumit dengan cara yang lebih terorganisir dan mudah dipahami. Selain itu, pemodelan perangkat lunak memungkinkan deteksi dini potensi masalah, optimalisasi desain, dan perencanaan operasi selanjutnya yang lebih tepat. Untuk memastikan pengembangan yang lebih fokus, efektif, dan dapat dipahami oleh semua pemangku kepentingan yang terlibat dalam siklus hidup perangkat lunak, pemodelan perangkat lunak sangatlah penting.
+
+=================================================
+Sistem baru yang diusulkan sebagai berikut, agar melibatkan banyak pihak di Fakultas Teknologi dan Informasi maka dibuat sebuah sistem berbasis website yang menyajikan data Kegiatan Belajar Mengajar.
+Setelah dosen melakukan pengisian Kegiatan Belajar Mengajar, lalu mahasiswa akan dapat melihat laporan Kegiatan Belajar Mengajar yang telah dibuat untuk di konfirmasi kebenaran datanya.
